@@ -1,4 +1,4 @@
-baseURL = "https://github.com/daviogg/davideoggioni.dev/"
+baseURL = "https://daviogg.github.io/davideoggioni.dev/"
 languageCode = "en-us"
 title = "Davide Oggioni"
 theme = "cactus"
