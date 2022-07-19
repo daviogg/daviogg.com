@@ -7,6 +7,7 @@ theme = "cactus"
 colortheme = "light" #dark, classic, white
 description = "Ciao! I'm Davide. I'm interested in Programming, Cycling and Bitcoin."
 mainSection = "posts"
+showAllPostsOnHomePage=true
 mainSectionTitle = "Blog"
 #tagsOverview = true
 mathjax = true # just in case, you know...
