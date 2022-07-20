@@ -35,4 +35,4 @@ Così negli ultimi anni il numero di blocchi vuoti è sceso allo 0.04% ma è com
 
 Il problema è dovuto ad una limitazione tecnica nota.
 
-[continua...](https://daviogg.medium.com/perch%C3%A9-la-blockchain-di-bitcoin-contiene-dei-blocchi-vuoti-4e35aa2dec26)
+[continua...](https://daviogg.medium.com/perch%C3%A9-la-blockchain-di-bitcoin-contiene-dei-blocchi-vuoti-4e35aa2dec26?source=friends_link&sk=2f8eea1f7a3335602f68afd3e07535f6)
