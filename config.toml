@@ -10,7 +10,7 @@ mainSection = "posts"
 showAllPostsOnHomePage=true
 mainSectionTitle = "Blog"
 #tagsOverview = true
-mathjax = true # just in case, you know...
+#favicon = "themes/cactus/static/images/favicon.ico"
 
 [[params.social]]
 name = "github"
