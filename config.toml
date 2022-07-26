@@ -24,6 +24,10 @@ link = "https://twitter.com/daviogg"
 name = "email"
 link = "daviogg@protonmail.com"
 
+[[params.social]]
+name = "linkedin"
+link = "https://www.linkedin.com/in/daviogg/"
+
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
