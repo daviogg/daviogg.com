@@ -5,7 +5,6 @@ tags:
     - Lighting Network
     - Invoice Lighting
     - Layer Two
-    - Scalability
 category: tech
 keywords:
     - Lighting Network
