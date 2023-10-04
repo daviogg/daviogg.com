@@ -12,4 +12,4 @@ keywords:
     - Layer Two
 ---
 
-    {{< slides src="https://slides.com/davideoggioni/lighting-network" >}}
+    {{< slides src="https://slides.com/davideoggioni/lighting-network/embed" >}}
